@@ -3,4 +3,4 @@
 package gomodulesversioningtest
 
 // AnswerToLife is the answer to life and everything.
-const AnswerToLife = 7
+const AnswerToLife = 42
